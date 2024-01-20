@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Maxence Guidez
+Copyright (c) 2024 Antoine Gagnon, Migaël Beaudoin, Jérôme Lavoie, Maxence Guidez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
