@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF Overlaydd89/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF Overlaydd89/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF Overlaydd89/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF SSD14eb/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF SSD14eb/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF SSD14eb/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Maskingbc1e/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Maskingbc1e/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Maskingbc1e/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Overlaya02a/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Overlaya02a/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile Overlaya02a/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile SSDc8d1/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile SSDc8d1/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobile SSDc8d1/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobilefe39/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobilefe39/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Mobilefe39/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surface-Mobile8518/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surface-Mobile8518/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surface-Mobile8518/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surfacef7ad/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surfacef7ad/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF-Surfacef7ad/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF68e6/01" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF68e6/02" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/ShaderCache/shader/TMP_SDF68e6/03" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/SplashScreenCache" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Library/TempArtifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/src/Temp/ProcessJobs" />
+      <excludeFolder url="file://$MODULE_DIR$/src/obj/Debug/TempPE" />
+      <excludeFolder url="file://$MODULE_DIR$/src/obj/Debug/TempPE_dst" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
